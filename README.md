@@ -31,11 +31,13 @@ I'm an Interactive Multimedia graduate interested in creating meaningful digital
 - GitHub:https://github.com/iotaouran
 
 ---
-
+### 🔭 Certificate
+-Google UX Design
+-AI fundamentals
 ✨ Always learning, building, and exploring new ideas.
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started and talk with me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
